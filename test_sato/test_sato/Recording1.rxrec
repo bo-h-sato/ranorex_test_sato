@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="8de1dd41-ff47-4979-8d6d-2d2bb4b64adf"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="test_sato">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="692f3d8c-caed-47f4-9ea4-32d069356043"
+	name="test_satoRepository"
+	relativepath="test_satoRepository.rxrep">
+		<codegen
+		classname="test_satoRepository"
+		namespace="test_sato">
+		</codegen>
+		<rootfolder
+		id="52ebd952-fce6-4579-a12e-2b73378f904d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

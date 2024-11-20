@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="0f960653-17ad-4520-89f8-2d3faeeae651"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="test_sato">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="20a10ee2-f142-4c7f-ae87-a87dc7fd3d28">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="dbf5cb09-ea5b-49fc-bed9-b50e588b3eff"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="692f3d8c-caed-47f4-9ea4-32d069356043"
+	name="test_satoRepository"
+	relativepath="test_satoRepository.rxrep">
+		<codegen
+		classname="test_satoRepository"
+		namespace="test_sato">
+		</codegen>
+		<rootfolder
+		id="52ebd952-fce6-4579-a12e-2b73378f904d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

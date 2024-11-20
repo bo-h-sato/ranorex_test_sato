@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="test_sato"
+      id="f1071d96-3787-4046-82b7-270f33551c5f"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="test_sato"
+      id="f1071d96-3787-4046-82b7-270f33551c5f"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
